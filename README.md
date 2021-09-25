@@ -4,7 +4,7 @@ Small demo app which allows a user to add expenses to a simple interface.
 
 ## What it looks like
 
-![A simple expense UI](https://github.com/benwdev/react-expense-tracker/blob/master/expense-tracker-image.png?raw=true)
+![A simple expense UI](https://github.com/benwdev/react-expense-tracker/blob/main/expense-tracker-image.png)
 
 ## What it does
 
